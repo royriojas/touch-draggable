@@ -28,11 +28,15 @@ $(function($) {
 ## Documentation
 _(Coming soon)_
 
+Basically the handler option and the addClasses property is all that is implemented in this version.
+That's all I need for now.
+
 ## Examples
 check the demo folder, load it on a iOS device or a Android device with Jelly Bean to obtain the best performance!. The demo has the jquery UI draggable and this one so you can make a quick comparison.
 
 ## Release History
 - version 0.0.1
+First things added
 
 ## License
 Copyright (c) 2012 Roy Riojas  
