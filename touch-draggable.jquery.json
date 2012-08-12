@@ -1,0 +1,33 @@
+{
+  "name": "touch-draggable",
+  "title": "Touch Draggable",
+  "description": "A simply jQuery UI draggable plugin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/royriojas/touch-draggable",
+  "author": {
+    "name": "Roy Riojas",
+    "email": "royriojas@gmail.com",
+    "url": "http://royriojas.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/royriojas/touch-draggable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royriojas/touch-draggable/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/royriojas/touch-draggable/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/royriojas/touch-draggable/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.7"
+  },
+  "keywords": []
+}
