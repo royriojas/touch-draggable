@@ -7,7 +7,7 @@
     $boxesOld.draggable();
 
     document.addEventListener("touchmove", function (e) {
-      e.preventDefault();
+      //e.preventDefault();
     });
 
     //Bonus, manipulation of elements using CSS3 and Javascript

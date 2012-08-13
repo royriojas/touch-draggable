@@ -17,7 +17,8 @@
     TRANSITION_END = transition.end,
     format = r3m.format,
     THRESHOLD_TO_DEBOUNCE = 30,
-    debounce = r3m.debounce;
+    debounce = r3m.debounce,
+    pMove = r3m.pointer.move;
 
   function enableZoomAndDrag(selector) {
     selector = selector || '.znd-enabled';
@@ -52,6 +53,9 @@
         _lastX1 = 0,
         _lastY1 = 0;
 
+      $doc.on(pMove + '.znd', function (e) {
+        return false;
+      });
 
       var ongesturechange = debounce(function(e) {
 
