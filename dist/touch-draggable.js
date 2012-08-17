@@ -1,4 +1,4 @@
-/*! Touch Draggable - v0.0.1 - 2012-08-12
+/*! Touch Draggable - v0.0.1 - 2012-08-16
 * https://github.com/royriojas/touch-draggable
 * Copyright (c) 2012 Roy Riojas; Licensed MIT, GPL */
 
